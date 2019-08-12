@@ -1,2 +1,4 @@
 # histogram
-Files for Histogram Blog
+A Brief Introduction to Histograms
+Visual analytics is defined as the “science of analytical reasoning supported by interactive visual interfaces” (Keim, Mansmann & Thomas, 2010, p.5). According to these authors, visual analytic tools allow those making decisions the flexibility and creativity necessary to gain insight into complex problems considering the incredible storage and processing capacity of today’s devices. 
+There are many visualization techniques used to answer analytical problems. Among them are line plots, histograms, heat-maps, etc. One of my favorites? Histograms. Kraska (2018) state that histograms “require bining the data into buckets and then performing an aggregation per bucket” (p.2153). First introduced by Pearson (1894), histograms are a representation of the distribution of numerical data, an estimate of the probability distribution of a continuous variable.
